@@ -1,0 +1,111 @@
+.product
+{
+    margin-top: 7%;
+}
+ .product p
+{
+    letter-spacing:1px;
+    text-align: center;
+}
+.product h5
+{
+   font-weight: bold;
+}
+
+.details
+{
+    text-align: center;
+    
+}
+.details .glyphicon
+{
+   font-size: 40px;
+    color: grey;
+    
+}
+#product
+{
+    margin-bottom: 5%;
+}
+
+
+/****************Contact Agent************/
+.btn_agent button
+{
+    background-color:#2abb67;
+    margin-bottom: 5%;
+    color: white;  
+    letter-spacing: 2px;
+}
+.btn_agent button:hover
+{
+    background-color: #1b8850;
+     transition: all .7s linear;
+    color: white;           
+}
+
+
+/***************Agent modal****************/
+.modal-content
+{
+    padding: 0px 40px 0px 40px;
+    color: white;
+    background-color: #0c2f1d;
+}
+.modal-header {
+  padding: 0;
+}
+.modal-header .close {
+  padding-top: 40px;
+}
+
+.modal-body .form-group {
+  margin-bottom: 10px;
+}
+
+.btn-default.contact_button 
+{
+    
+    background-color:#0000002e !important;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 13px; 
+    transition: all .5s linear;
+    width: 100%;
+    border: 0px;
+    height: 40px;
+   
+}
+.contact_button:hover
+{
+    background-color:#0000002e !important;
+    font-size: 14px; 
+    color: white;
+    
+}
+.modal-content input 
+{
+    height: 50px !important;
+    color: black;
+}
+.modal-content select
+{
+    height: 50px !important;
+}
+.modal-content label
+{
+    letter-spacing: 2px;
+}
+
+element.style {
+    height: 48px !important;
+}
+
+.modal-content input {
+    height: 50px !important;
+}
+
+.modal-content input[type=file] {
+    display: block;
+    padding-top: 12px;
+}

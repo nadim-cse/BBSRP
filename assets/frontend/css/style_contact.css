@@ -1,0 +1,55 @@
+.jumbotron {
+background: #2abb67;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm 
+{   margin-top: 5%;
+    padding-top: 24px;
+    padding-bottom: 24px; 
+}
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+.well-sm {
+    padding: 40px 40px 10px 40px;
+    border-radius: 3px;
+}
+.well {
+    
+    margin-bottom: 8%;
+    margin-top: 5%;
+    background-color: #2b8250;
+    border:none;
+    border-radius: 4px;
+    box-shadow: 5px 15px 13px grey;
+    
+}
+.well label
+{
+    color: white;
+    letter-spacing: 2px;
+}
+.well button
+{
+    background-color: #0000002e !important;
+    transition: all .5s linear;
+    border: none !important;
+    letter-spacing: 2px !important;
+    height: 40px;
+    
+}
+.contact_right
+{
+    margin-top: 6%;
+    padding: 30px;
+    
+}
+.contact_right h4
+{
+   color: gray;
+    
+}
